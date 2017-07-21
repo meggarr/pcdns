@@ -211,3 +211,7 @@ Moving forward, we can add more functionality,
     -   Update rules subscriber
 -   Improve the performance so that the query of a domain can be fast enough
     -   May set a benchmark to meet
+
+Reference
+=========
+http://mkaczanowski.com/golang-build-dynamic-dns-service-go/
